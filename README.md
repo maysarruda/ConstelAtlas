@@ -2,7 +2,7 @@
 
 ![ConstelAtlas Banner](img/ConstelAtlasBanner.png)
 
-## Descrição
+## Imersão Dev com Google Gemini
 
 **ConstelAtlas** é um projeto que explora as constelações visíveis no céu do Brasil, permitindo que astrônomos amadores e entusiastas aprendam mais sobre as estrelas e constelações. O projeto foi desenvolvido durante a Imersão Alura + Gemini, focando na educação e na conexão entre ciência e curiosidade astronômica.
 
@@ -27,6 +27,15 @@ O **ConstelAtlas** é dividido em várias seções para facilitar a navegação 
 - **Guia de Observação**: Dicas para identificar constelações e observar o céu noturno de forma eficaz.
 - **Sobre**: Uma página com detalhes sobre o projeto e os desenvolvedores.
 
+## Como Usar
+
+Para utilizar o **ConstelAtlas** e explorar as constelações do hemisfério sul:
+
+1. **Acesse o Mapa Estelar**: Navegue pelo mapa interativo para visualizar as constelações visíveis no céu brasileiro em diferentes épocas do ano.
+2. **Pesquise Constelações**: Digite o nome de uma constelação do hemisfério sul na barra de pesquisa para obter informações detalhadas sobre ela.
+3. **Explore Características**: Clique nas constelações para descobrir suas características, histórias e curiosidades.
+4. **Consulte o Guia de Observação**: Utilize o guia para dicas práticas sobre como identificar e observar as constelações no céu noturno.
+
 ## Recursos Utilizados
 
 O **ConstelAtlas** foi desenvolvido utilizando as seguintes tecnologias:
@@ -48,7 +57,11 @@ O **ConstelAtlas** foi desenvolvido utilizando as seguintes tecnologias:
 5. Faça o push para a branch: `git push origin minha-modificacao`
 6. Envie um pull request.
 
-## Autor
+## Link do Projeto
+
+Você pode acessar a versão ao vivo do **ConstelAtlas** [aqui](https://constel-atlas.vercel.app/).
+
+## Equipe
 
 - [Maysa Arruda](https://github.com/Maysa502)
 
