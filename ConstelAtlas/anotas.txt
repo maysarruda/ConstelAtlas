@@ -1,0 +1,9 @@
+alt + z = quebra a linha de acordo com a proprorção da tela
+
+tag main pra conteudo principal (fora do header)
+
+crl + alt + F = identa a formatação
+
+.classe = é a forma de estilizaar uma determinada classe no css
+
+lista = ["",]
